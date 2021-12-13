@@ -1,1 +1,1 @@
-Depot de fichiers .sql pour le cours de BDD
+Les travaux de Kidam se trouvent sur cette branche. 

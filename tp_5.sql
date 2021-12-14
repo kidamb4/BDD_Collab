@@ -1,7 +1,7 @@
-DROP DATABASE eleve;
-CREATE DATABASE eleve;
+DROP DATABASE gestNote;
+CREATE DATABASE gestNote;
 
-USE eleve;
+USE gestNote;
 
 CREATE TABLE professeur (
 code_prof INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
